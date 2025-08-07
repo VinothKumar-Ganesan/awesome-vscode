@@ -690,7 +690,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## [Document Viewer](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Document-Viewer-VSCode-Extensions)
 
-> View PDF, Word, Excel, and Markdown files directly in VS Code without external applications.
+> The Document Viewer extension enables developers to seamlessly view Word, Excel, Pdf, Markdown, CSV, and TSV files directly within VS Code. No more switching between applications - keep your workflow uninterrupted by viewing documents in the same environment where you code.
 
 ![DocumentViewerExtension](https://cdn.syncfusion.com/visual-studio-market/document-viewer/DocumentViewerHowtoUse.gif)
 
