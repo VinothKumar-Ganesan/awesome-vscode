@@ -94,6 +94,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Create tests](#create-tests)
   - [Dendron](#dendron)
   - [Deploy](#deploy)
+  - [Document Viewer](#document-viewer)
   - [Duplicate Action](#duplicate-action)
   - [Error Lens](#error-lens)
   - [Toggle](#toggle)
@@ -686,6 +687,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Commands for upload or copy files of a workspace to a destination.
 
 ![Upload/copy files animation](https://raw.githubusercontent.com/mkloubert/vs-deploy/master/img/demo.gif)
+
+## [Document Viewer](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Document-Viewer-VSCode-Extensions)
+
+> View PDF, Word, Excel, and Markdown files directly in VS Code without external applications.
+
+![DocumentViewerExtension](https://cdn.syncfusion.com/visual-studio-market/document-viewer/DocumentViewerHowtoUse.gif)
 
 ## [Duplicate Action](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-duplicate)
 
